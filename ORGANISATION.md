@@ -1,5 +1,9 @@
 # Organisation de l'alliance Waow
 
+Ce document décrit l'organisation de l'alliance Waow dans le jeu Last War.
+
+Ce document est public et peut être largement diffusé. Il est la propriété de l'alliance Waow.
+
 ## Rôles
 
 ### Leader (R5)
