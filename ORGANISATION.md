@@ -21,9 +21,11 @@ Les officiers sont nommés par le leader. S'ils ne donnent pas satisfaction, ils
 
 Les officiers sont des membres essentiels de l'alliance. Ils s'engagent à participer régulièrement à la vie de l'alliance, à respecter les périmètres de chacun et les décisions du leader.
 
+Quatre officiers R4 sont nommés au minimum.
+
 Nous recommendons de ne pas nommer plus de 6 R4 en tout, de manière à éviter la dilution des responsabilités et des consultations trop longues.
 
-Tous les membres de l'alliance de niveau R3 peuvent postuler à devenir R4. Aucun niveau de puissance n'est exigé. Ils devront faire preuve de leur motivation et de la réhularité de l'engagement.
+Tous les membres de l'alliance de niveau R3 peuvent postuler à devenir R4. Aucun niveau de puissance n'est exigé. Ils devront faire preuve de leur motivation et de la régularité de leur engagement.
 
 
 #### Seigneur de guerre
