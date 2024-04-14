@@ -1,5 +1,8 @@
 # Tactiques militaires / Military tactics
 
+* TOC
+{:toc}
+
 ## Tactiques générales / General tactics
 
 ### Egorger l'adversaire dans son sommeil / Slaying the opponent in his sleep
