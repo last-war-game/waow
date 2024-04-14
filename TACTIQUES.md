@@ -26,7 +26,7 @@ _Attack the target while he is asleep, to maximize the chances of success._
 
 ### Courir et se cacher / Run and hide
 
-Si vous êtes attaqué par un joueur nettement plus puissant que vous, il est probable qu'il vous infliger des pertes importantes. Plutôt que
+Si vous êtes attaqué par un joueur nettement plus puissant que vous, il est probable qu'il va vous infliger des pertes importantes. Plutôt que
 de les subir vous pouvez:
 
 - Activer un bouclier de protection. Pour cela, il faut en posséder un en réserve. Et ne pas être sujet à la fureur du combat.
