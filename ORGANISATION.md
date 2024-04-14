@@ -12,6 +12,8 @@ _This document is public and can be widely distributed. It is the property of th
 
 ### Leader (R5)
 
+**Leader actuel: Crétacé**
+
 Le leader prend les décisions importantes pour l'alliance, en particulier en matière de diplomatie.
 
 - Le leader valide le contenu de ce document, ainsi que les modifications futures.
@@ -59,11 +61,15 @@ _All members of the alliance of level R3 can apply to become R4. No power level 
 
 #### Seigneur de guerre / Warlord
 
+**Seigneur de guerre actuel: aucun**
+
 Le seigneur de guerre dirige les opérations militaires. Lorsque le leader déclare un conflit avec une autre alliance, le seigneur de guerre définit la tactique à employer, les heures d'attaques, les groupes d'attaque, etc. Les membres de l'alliance suivent ses instructions pour toutes les affaires de la guerre.
 
 _The warlord leads military operations. When the leader declares a conflict with another alliance, the warlord defines the tactics to be used, the hours of attack, the attack groups, etc. The members of the alliance follow his instructions for all war matters._
 
 #### Recruteur / Recruiter
+
+**Recruteur actuel: Eddychoum**
 
 Le recruteur est en charge des recrutements individuels.
 
@@ -74,6 +80,8 @@ _The recruiter is in charge of individual recruitments._
 _In particular, he organizes recruitment campaigns and validates all applications._
 
 #### Muse
+
+**Muse actuelle: Cpt Alpi**
 
 La muse est en charge de la gestion courante de l'alliance.
 
