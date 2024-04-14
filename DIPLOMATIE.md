@@ -6,7 +6,7 @@ Nous avons un pacte de non-agression avec les alliances suivantes :
 
 - FMI (La Famillia)
 - OZF (Mutine Squad)
-- DLH (???)
+- LDH (La Ligue des Héros)
 
 Un pacte de non-agression est un accord entre deux alliances pour ne pas s'attaquer mutuellement.
 Cela ne signifie pas que nous sommes alliés, mais que nous ne nous attaquerons pas.
@@ -28,7 +28,7 @@ _We have a non-aggression pact with the following alliances:_
 
 - _FMI (La Famillia)_
 - _OZF (Mutine Squad)_
-- _DLH (???)_
+- _LDH (La Ligue des Héros)_
 
 _A non-aggression pact is an agreement between two alliances not to attack each other. This does not mean that we are allies, but 
 that we will not attack each other._
