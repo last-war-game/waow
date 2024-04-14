@@ -8,6 +8,9 @@ _This document describes the organization of the Waow alliance in the Last War g
 
 _This document is public and can be widely distributed. It is the property of the Waow alliance._
 
+* TOC
+{:toc}
+
 ## Rôles / Roles
 
 ### Leader (R5)
