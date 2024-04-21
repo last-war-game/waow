@@ -60,3 +60,20 @@ _We are currently discussing with the following alliances:_
 
 _Please do not attack players from these alliances while waiting for the outcome of the discussions._
 
+## Joeurs francophones / French-speaking players
+
+Nous n'attaquons pas les joueurs francophones par défaut (sauf en réponse à une attaque). Un R4 ou un R5 peut autoriser une attaque contre un joueur francophone si nécessaire.
+
+_We do not attack French-speaking players by default (except in response to an attack). An R4 or R5 may authorize an attack against a French-speaking player if necessary._
+
+## Piller les camions et les trains / Looting trucks and trains
+
+Il est interdit de piller les camions et les trains de joueurs du même serveur que le notre (#350).
+
+_It is forbidden to loot trucks and trains from players on the same server as ours (#350)._
+
+## Piller les missions secrètes / Looting secret missions
+
+Aucune restriction. Vous pouvez piller les missions secrètes de n'importe quel joueur.
+
+_No restrictions. You can loot the secret missions of any player._
