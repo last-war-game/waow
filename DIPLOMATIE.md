@@ -4,9 +4,9 @@
 
 Nous avons un pacte de non-agression avec les alliances suivantes :
 
-- FMI (La Famillia)
-- OZF (Mutine Squad)
-- LDH (La Ligue des Héros)
+- CfR
+- cfR
+- cFr
 
 Un pacte de non-agression est un accord entre deux alliances pour ne pas s'attaquer mutuellement.
 Cela ne signifie pas que nous sommes alliés, mais que nous ne nous attaquerons pas.
