@@ -7,6 +7,7 @@ Nous avons un pacte de non-agression avec les alliances suivantes :
 - CfR
 - cfR
 - cFr
+- OLA
 
 Un pacte de non-agression est un accord entre deux alliances pour ne pas s'attaquer mutuellement.
 Cela ne signifie pas que nous sommes alliés, mais que nous ne nous attaquerons pas.
@@ -26,9 +27,10 @@ Si nous sommes attaqués par un joueur d'une alliance avec laquelle nous avons u
 
 _We have a non-aggression pact with the following alliances:_
 
-- _FMI (La Famillia)_
-- _OZF (Mutine Squad)_
-- _LDH (La Ligue des Héros)_
+- CfR
+- cfR
+- cFr
+- OLA
 
 _A non-aggression pact is an agreement between two alliances not to attack each other. This does not mean that we are allies, but 
 that we will not attack each other._
@@ -74,6 +76,6 @@ _It is forbidden to loot trucks and trains from players on the same server as ou
 
 ## Piller les missions secrètes / Looting secret missions
 
-Aucune restriction. Vous pouvez piller les missions secrètes de n'importe quel joueur.
+Vous pouvez piller les missions secrètes de toutes les alliances sauf celles avec lesquelles nous avons un pacte de non-agression.
 
-_No restrictions. You can loot the secret missions of any player._
+_You can loot the secret missions of all alliances except those with which we have a non-aggression pact._
